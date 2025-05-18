@@ -14,6 +14,34 @@
 \usepackage{graphicx}
 \graphicspath{ {./images/} }
 
+% Line spacing
+\usepackage{setspace}
+\onehalfspacing  % or use \singlespacing or \doublespacing as needed
+
+% Paragraph spacing
+\setlength{\parskip}{0.75em}  % space between paragraphs
+\setlength{\parindent}{0pt}   % no indentation (you already have this)
+
+% Custom font sizes for headings
+\usepackage{sectsty} % to customize section font sizes
+
+% Normal text font size is already 12pt (from documentclass)
+
+% Normal heading style (like \textbf 12pt) - redefine \normalfont
+\renewcommand\normalsize{\fontsize{12}{14}\selectfont} % 12pt font with 14pt baseline skip
+
+% Section headings (14pt)
+\sectionfont{\fontsize{14}{16}\selectfont\bfseries} 
+
+% Subsection headings (optional, keep smaller)
+\subsectionfont{\fontsize{12}{14}\selectfont\bfseries}
+
+% Chapter (main heading) size (16pt bold centered)
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries\fontsize{16}{18}\selectfont\centering}
+  {\chaptername\ \thechapter}{1em}{}
+
 \renewcommand*\contentsname{Table of Contents}
 
 % Redefine the \numberline command for figures
@@ -68,8 +96,8 @@
 \makeatother
 
 \title{Major}
-\author{Swetraj Paudel}
-\date{May 2024}
+\author{Sandip Adhikari}
+\date{May 2025}
 
 \setlength{\parindent}{0pt}
 
