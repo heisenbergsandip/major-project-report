@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.18)  18 MAY 2025 12:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.18)  18 MAY 2025 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -361,10 +361,6 @@ Chapter 6.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  4152 strings out of 474479
@@ -375,7 +371,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  79i,8n,93p,995b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (28 pages, 184647 bytes).
+Output written on main.pdf (28 pages, 185074 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
