@@ -1,14 +1,22 @@
 \contentsline {chapter}{Acknowledgement}{i}{}%
 \contentsline {chapter}{Abstract}{ii}{}%
-\contentsline {chapter}{List of Figures}{iii}{}%
-\contentsline {chapter}{List of Tables}{iv}{}%
-\contentsline {chapter}{List of Abbreviation}{v}{}%
+\contentsline {chapter}{List of Figures}{iv}{}%
+\contentsline {chapter}{List of Tables}{v}{}%
+\contentsline {chapter}{List of Abbreviation}{vi}{}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{}%
 \contentsline {section}{\numberline {1.1}Background Theory}{1}{}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{2}{}%
 \contentsline {chapter}{\numberline {2}Literature Review}{3}{}%
-\contentsline {chapter}{\numberline {3}Related Theory}{6}{}%
-\contentsline {section}{\numberline {3.1}Hardware}{6}{}%
+\contentsline {chapter}{\numberline {3}Related Theory}{5}{}%
+\contentsline {section}{\numberline {3.1}Hardware}{5}{}%
+\contentsline {subsection}{\numberline {3.1.1}FLYSKY Receiver}{5}{}%
+\contentsline {subsection}{\numberline {3.1.2}30A ESC Skywalker}{5}{}%
+\contentsline {subsection}{\numberline {3.1.3}Flight Stabilizer (NXE4 EVO)}{5}{}%
+\contentsline {subsection}{\numberline {3.1.4}1000KV Brushless Motor}{5}{}%
+\contentsline {subsection}{\numberline {3.1.5}MG996 Metal Gear Servo}{6}{}%
+\contentsline {subsection}{\numberline {3.1.6}2200mAh 3S LiPo Battery}{6}{}%
+\contentsline {subsection}{\numberline {3.1.7}Buck Module Voltage Regulator}{6}{}%
+\contentsline {subsection}{\numberline {3.1.8}Raspberry Pi with USB Camera and HDMI Cable}{6}{}%
 \contentsline {section}{\numberline {3.2}Software}{7}{}%
 \contentsline {section}{\numberline {3.3}Dataset}{8}{}%
 \contentsline {chapter}{\numberline {4}Feasibility Study}{10}{}%
@@ -21,5 +29,5 @@
 \contentsline {chapter}{\numberline {6}Result And Analysis}{16}{}%
 \contentsline {section}{\numberline {6.1}Expected Output}{16}{}%
 \contentsline {chapter}{Gantt Chart}{18}{}%
-\contentsline {chapter}{References}{19}{}%
+\contentsline {chapter}{Cost Estimation}{19}{}%
 \contentsfinish 
