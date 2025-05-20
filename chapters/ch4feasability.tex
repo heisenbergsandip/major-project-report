@@ -1,20 +1,40 @@
 \section{Technical Feasibility}
-\begin{table}[h]
-\caption{Hardware Specification Table}
-\vspace{12pt}
-\centering
-\begin{tabular}{|c|c|c|}
-\hline
-Column 1 & Column 2 & Column 3 \\
-\hline
-Item 1   & Item 2   & Item 3   \\
-Item 4   & Item 5   & Item 6   \\
-Item 7   & Item 8   & Item 9   \\
-\hline
-\end{tabular}
 
-\label{tab:Hardware Specification Table}
-\end{table}
+\subsection{Hardware Availability and Requirements}
+\begin{itemize}
+  \item \textbf{UAV Hardware:} Raspberry Pi 4 with a camera module for capturing aerial imagery.
+  \item \textbf{ESRGAN Processing:} Ground PC with GPU or cloud-based services (e.g., Google Colab) for super-resolution.
+  \item \textbf{Flight Components:} Motors, ESCs, batteries, and flight controllers, readily available in local electronics stores in Kathmandu.
+\end{itemize}
+
+\subsection{Software Tools and Implementation}
+\begin{itemize}
+  \item \textbf{ESRGAN Super-Resolution:} Implemented using PyTorch or TensorFlow with open-source pretrained models.
+  \item \textbf{Land Use Classification:} Utilizes scikit-learn (SVM, RF) and CNNs using PyTorch or TensorFlow.
+  \item \textbf{Image Processing:} Managed with OpenCV, NumPy, and GDAL/Rasterio for geospatial tasks.
+\end{itemize}
+
+\subsection{UAV Design and Development Tools}
+\begin{itemize}
+  \item \textbf{Design:} AeroToolbox and similar open-source tools for wing loading, CG calculation, and thrust analysis.
+  \item \textbf{Build Materials:} Depron sheets used for lightweight UAV frame construction, available locally.
+\end{itemize}
+
+\subsection{Time Feasibility}
+\begin{itemize}
+  \item \textbf{Design, Assembly, and Software Development:} UAV frame design, hardware integration, and implementation of the image processing/classification pipeline will take around 3 months.
+  \item \textbf{Testing and Validation:} Field testing of UAV and validation of outputs will require 2--3 weeks.
+  \item \textbf{Data Collection and Model Training:} Capturing aerial imagery, labeling datasets, and training/testing models with ESRGAN-upscaled images will take 2.5--3.5 months.
+\end{itemize}
+
+\noindent\textbf{Total Estimated Time:} Approximately 6--7 months.
+
 \section{Economic Feasibility}
-\lipsum[4-8]
 
+\begin{itemize}
+  \item \textbf{Cost-Effective Setup:} Low-cost components like Raspberry Pi, camera modules, depron, and UAV parts are affordable and readily available in Kathmandu (e.g., local stores or Daraz).
+  \item \textbf{Free Software and Compute Resources:} Software tools such as PyTorch, TensorFlow, OpenCV, and cloud services like Google Colab are free, minimizing development cost.
+\end{itemize}
+
+\noindent\textbf{Market Potential and Conclusion:}  
+This project provides a scalable, low-cost solution for high-resolution land-use classification using UAV imagery and super-resolution techniques. Its modular structure and reliance on open-source software and affordable components make it both technically and economically viable. With applications in urban planning, smart agriculture, and environmental monitoring, the system shows strong commercialization potential. Future upgrades like onboard inference, real-time telemetry, and satellite data integration can further enhance its market value.

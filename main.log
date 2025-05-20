@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.18)  20 MAY 2025 15:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.18)  20 MAY 2025 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/ASUS/Downloads/Major Project Proposal-Report for Institute of Engineering (IOE) (2)/main.tex"
-(c:/Users/ASUS/Downloads/Major Project Proposal-Report for Institute of Engineering (IOE) (2)/main.tex
+**"c:/Users/ASUS/OneDrive/Desktop/Major Project Proposal-Report for Institute of Engineering (IOE) (2)/main.tex"
+(c:/Users/ASUS/OneDrive/Desktop/Major Project Proposal-Report for Institute of Engineering (IOE) (2)/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -205,30 +205,37 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \l__siunitx_unit_tmp_int=\count283
 \l__siunitx_unit_position_int=\count284
 \l__siunitx_unit_total_int=\count285
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks21
+\float@box=\box61
+\@float@everytoks=\toks22
+\@floatcapt=\box62
 ) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2024-01-04 L3 programming layer (loader) 
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box61
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box63
 ))
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count287
-\l__lipsum_a_int=\count288
-\l__lipsum_b_int=\count289
+\g__lipsum_par_int=\count288
+\l__lipsum_a_int=\count289
+\l__lipsum_b_int=\count290
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
 Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
 ) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count290
-\xs_countb=\count291
+\xs_counta=\count291
+\xs_countb=\count292
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
-\AC@clearlist=\toks21
+\AC@clearlist=\toks23
 ) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
@@ -259,12 +266,12 @@ LaTeX Warning: Command \underline  has changed.
 
 ) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box62
+\ttl@box=\box64
 \beforetitleunit=\skip87
 \aftertitleunit=\skip88
 \ttl@plus=\dimen173
 \ttl@minus=\dimen174
-\ttl@toksa=\toks22
+\ttl@toksa=\toks24
 \titlewidth=\dimen175
 \titlewidthlast=\dimen176
 \titlewidthfirst=\dimen177
@@ -307,12 +314,12 @@ LaTeX Font Info:    ... okay on input line 109.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* h-part:(L,W,R)=(90.3375pt, 434.90039pt, 72.26999pt)
 * v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=452.9679pt
-* \textheight=700.50687pt
+* \textheight=670.50687pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=0.0pt
@@ -340,17 +347,17 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 109.
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count292
+\scratchcounter=\count293
 \scratchdimen=\dimen179
-\scratchbox=\box63
-\nofMPsegments=\count293
-\nofMParguments=\count294
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count295
+\scratchbox=\box65
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count296
 \MPscratchDim=\dimen180
-\MPnumerator=\count296
-\makeMPintoPDFobject=\count297
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks26
 ) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -374,7 +381,7 @@ Package pdftex.def Info: images/kec.png  used on input line 19.
 
  [2
 
-] (main.lof
+] [3] (main.lof
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 4.
  (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -401,15 +408,15 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [3
+ [4
 
 ] (main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [4
+ [5
 
-] (abbreviation.tex) [5
+] (abbreviation.tex) [6
 
 ]
 Chapter 1.
@@ -422,51 +429,99 @@ Chapter 2.
 ] [4] [5]
 Chapter 3.
 (chapters/ch3relatedtheory.tex
-<images/raspimg.jpg, id=43, 897.3525pt x 644.4075pt>
+<images/raspimg.jpg, id=47, 897.3525pt x 644.4075pt>
 File: images/raspimg.jpg Graphic file (type jpg)
 <use images/raspimg.jpg>
 Package pdftex.def Info: images/raspimg.jpg  used on input line 5.
 (pdftex.def)             Requested size: 226.48395pt x 162.6354pt.
  [6
 
-] [7 <./images/raspimg.jpg>]) [8] [9]
+]
+<images/esrganarchi.png, id=51, 1184.425pt x 372.39125pt>
+File: images/esrganarchi.png Graphic file (type png)
+<use images/esrganarchi.png>
+Package pdftex.def Info: images/esrganarchi.png  used on input line 15.
+(pdftex.def)             Requested size: 385.02547pt x 121.05412pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 19.
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [7 <./images/raspimg.jpg> <./images/esrganarchi.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]|\OT1/ptm/m/n/12 Overly smooth
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 35--35
+[]|\OT1/ptm/m/n/12 Efficient, higher
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]|\OT1/ptm/m/n/12 Limited tex-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/ptm/m/n/12 High PSNR,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+[]|\OT1/ptm/m/n/12 Less per-cep-tual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]|\OT1/ptm/m/n/12 Computationally
+ []
+
+[8]
+Overfull \hbox (0.29227pt too wide) in paragraph at lines 72--73
+[]\OT1/ptm/b/n/12 Nepal Na-tional Land Cover Dataset\OT1/ptm/m/n/12 : An-nual land-cover maps (2000{2022) from Land-
+ []
+
+[9]) [10]
 Chapter 4.
-(chapters/ch4feasability.tex [10
+(chapters/ch4feasability.tex [11
 
-]) [11]
+]) [12]
 Chapter 5.
-(chapters/ch5methodology.tex [12
+(chapters/ch5methodology.tex [13
 
-]) [13] [14]
+]) [14] [15]
 Chapter 6.
-(chapters/ch6result.tex) [15
+(chapters/ch6result.tex) [16
 
-] [16] (ganttchart.tex) [17
+] [17] (ganttchart.tex) [18
 
-] (cost estimation.tex [18
+] (cost estimation.tex [19
 
-]) [19] (references.tex [20
+]) [20] (references.tex [21
 
-]) [21
+]) [22
 
 ] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 8779 strings out of 474479
- 205916 string characters out of 5744063
- 1935542 words of memory out of 5000000
- 30912 multiletter control sequences out of 15000+600000
- 579609 words of font info for 72 fonts, out of 8000000 for 9000
+ 8892 strings out of 474479
+ 207960 string characters out of 5744063
+ 1938542 words of memory out of 5000000
+ 31017 multiletter control sequences out of 15000+600000
+ 579923 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,10n,93p,1074b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,93p,1151b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (28 pages, 185776 bytes).
+Output written on main.pdf (30 pages, 254452 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
