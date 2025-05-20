@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.19)  20 MAY 2025 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.19)  20 MAY 2025 13:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -342,97 +342,91 @@ Chapter 1.
 ])
 
 [2]
-
-[3]
 Chapter 2.
 (chapters/ch2literature.tex)
 
-[4
+[3
 
 ]
 
-[5]
+[4]
 
-[6]
+[5]
 Chapter 3.
 (chapters/ch3relatedtheory.tex
-<images/raspimg.jpg, id=47, 897.3525pt x 644.4075pt>
+<images/raspimg.jpg, id=43, 897.3525pt x 644.4075pt>
 File: images/raspimg.jpg Graphic file (type jpg)
 <use images/raspimg.jpg>
 Package pdftex.def Info: images/raspimg.jpg  used on input line 5.
 (pdftex.def)             Requested size: 226.48395pt x 162.6354pt.
 
 
-[7
+[6
 
 ]
 
-[8 <./images/raspimg.jpg>])
+[7 <./images/raspimg.jpg>])
+
+[8]
 
 [9]
-
-[10]
 Chapter 4.
 (chapters/ch4feasability.tex
 
-[11
+[10
 
 ])
 
-[12]
+[11]
 Chapter 5.
 (chapters/ch5methodology.tex
 
-[13
+[12
 
 ]
 
-[14])
+[13])
+
+[14]
 
 [15]
-
-[16]
 Chapter 6.
 (chapters/ch6result.tex)
 
-[17
+[16
 
 ]
 
-[18] (ganttchart.tex)
+[17] (ganttchart.tex)
 
-[19
+[18
 
 ] (references.tex
 
-[20
+[19
 
 ])
 
-[21
+[20
 
 ] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  4145 strings out of 469941
  69829 string characters out of 5479500
- 560756 words of memory out of 5000000
+ 559325 words of memory out of 5000000
  30854 multiletter control sequences out of 15000+600000
  647735 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,8n,77p,958b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,8n,77p,1037b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (28 pages, 185094 bytes).
+Output written on main.pdf (27 pages, 183257 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
+ 108 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
