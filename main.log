@@ -1,55 +1,55 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.18)  20 MAY 2025 09:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.19)  20 MAY 2025 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/ASUS/Downloads/Major Project Proposal-Report for Institute of Engineering (IOE) (2)/main.tex"
-(c:/Users/ASUS/Downloads/Major Project Proposal-Report for Institute of Engineering (IOE) (2)/main.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
-(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
-Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+**c:/Users/User/OneDrive/Desktop/major/major-project-report/main.tex
+(c:/Users/User/OneDrive/Desktop/major/major-project-report/main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@chapter=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+\c@part=\count272
+\c@chapter=\count273
+\c@section=\count274
+\c@subsection=\count275
+\c@subsubsection=\count276
+\c@paragraph=\count277
+\c@subparagraph=\count278
+\c@figure=\count279
+\c@table=\count280
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen146
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count196
-\Gm@cntv=\count197
-\c@Gm@tempcnt=\count198
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks18
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullpage.sty
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/preprint\fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip50
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+\FP@margin=\skip51
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -84,90 +84,89 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/titlesec\titletoc.sty
 Package: titletoc 2025/01/04 v2.17 TOC entries
-\ttl@leftsep=\dimen149
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+\ttl@leftsep=\dimen155
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip51
-\cftbeforetoctitleskip=\skip52
-\cftaftertoctitleskip=\skip53
-\cftbeforepartskip=\skip54
-\cftpartnumwidth=\skip55
-\cftpartindent=\skip56
-\cftbeforechapskip=\skip57
-\cftchapindent=\skip58
-\cftchapnumwidth=\skip59
-\cftbeforesecskip=\skip60
-\cftsecindent=\skip61
-\cftsecnumwidth=\skip62
-\cftbeforesubsecskip=\skip63
-\cftsubsecindent=\skip64
-\cftsubsecnumwidth=\skip65
-\cftbeforesubsubsecskip=\skip66
-\cftsubsubsecindent=\skip67
-\cftsubsubsecnumwidth=\skip68
-\cftbeforeparaskip=\skip69
-\cftparaindent=\skip70
-\cftparanumwidth=\skip71
-\cftbeforesubparaskip=\skip72
-\cftsubparaindent=\skip73
-\cftsubparanumwidth=\skip74
-\cftbeforeloftitleskip=\skip75
-\cftafterloftitleskip=\skip76
-\cftbeforefigskip=\skip77
-\cftfigindent=\skip78
-\cftfignumwidth=\skip79
-\c@lofdepth=\count199
-\c@lotdepth=\count266
-\cftbeforelottitleskip=\skip80
-\cftafterlottitleskip=\skip81
-\cftbeforetabskip=\skip82
-\cfttabindent=\skip83
-\cfttabnumwidth=\skip84
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-01-04 L3 programming layer (loader) 
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count267
-\l__pdf_internal_box=\box51
+\cftparskip=\skip52
+\cftbeforetoctitleskip=\skip53
+\cftaftertoctitleskip=\skip54
+\cftbeforepartskip=\skip55
+\cftpartnumwidth=\skip56
+\cftpartindent=\skip57
+\cftbeforechapskip=\skip58
+\cftchapindent=\skip59
+\cftchapnumwidth=\skip60
+\cftbeforesecskip=\skip61
+\cftsecindent=\skip62
+\cftsecnumwidth=\skip63
+\cftbeforesubsecskip=\skip64
+\cftsubsecindent=\skip65
+\cftsubsecnumwidth=\skip66
+\cftbeforesubsubsecskip=\skip67
+\cftsubsubsecindent=\skip68
+\cftsubsubsecnumwidth=\skip69
+\cftbeforeparaskip=\skip70
+\cftparaindent=\skip71
+\cftparanumwidth=\skip72
+\cftbeforesubparaskip=\skip73
+\cftsubparaindent=\skip74
+\cftsubparanumwidth=\skip75
+\cftbeforeloftitleskip=\skip76
+\cftafterloftitleskip=\skip77
+\cftbeforefigskip=\skip78
+\cftfigindent=\skip79
+\cftfignumwidth=\skip80
+\c@lofdepth=\count284
+\c@lotdepth=\count285
+\cftbeforelottitleskip=\skip81
+\cftafterlottitleskip=\skip82
+\cftbeforetabskip=\skip83
+\cfttabindent=\skip84
+\cfttabnumwidth=\skip85
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-04-14 L3 programming layer (loader) 
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
 ))
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count268
-\l__lipsum_a_int=\count269
-\l__lipsum_b_int=\count270
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
+\g__lipsum_par_int=\count287
+\l__lipsum_a_int=\count288
+\l__lipsum_b_int=\count289
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/acronym\acronym.sty
 Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/bigfoot\suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count271
-\xs_countb=\count272
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\User\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count290
+\xs_countb=\count291
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
 \AC@clearlist=\toks19
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 
@@ -178,21 +177,21 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box52
-\beforetitleunit=\skip85
-\aftertitleunit=\skip86
-\ttl@plus=\dimen152
-\ttl@minus=\dimen153
+\ttl@box=\box53
+\beforetitleunit=\skip86
+\aftertitleunit=\skip87
+\ttl@plus=\dimen158
+\ttl@minus=\dimen159
 \ttl@toksa=\toks20
-\titlewidth=\dimen154
-\titlewidthlast=\dimen155
-\titlewidthfirst=\dimen156
+\titlewidth=\dimen160
+\titlewidthlast=\dimen161
+\titlewidthfirst=\dimen162
 )
-\mylen=\skip87
+\mylen=\skip88
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 104.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (main.aux)
 \openout1 = `main.aux'.
@@ -246,24 +245,24 @@ LaTeX Font Info:    ... okay on input line 104.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\big@size=\dimen157
-(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+\big@size=\dimen163
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count273
-\scratchdimen=\dimen158
-\scratchbox=\box53
-\nofMPsegments=\count274
-\nofMParguments=\count275
+\scratchcounter=\count292
+\scratchdimen=\dimen164
+\scratchbox=\box54
+\nofMPsegments=\count293
+\nofMParguments=\count294
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count276
-\MPscratchDim=\dimen159
-\MPnumerator=\count277
-\makeMPintoPDFobject=\count278
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen165
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
 \everyMPtoPDFconversion=\toks22
-) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) (titlepage.tex
 <images/kec.png, id=1, 225.84375pt x 225.84375pt>
@@ -271,33 +270,41 @@ File: images/kec.png Graphic file (type png)
 <use images/kec.png>
 Package pdftex.def Info: images/kec.png  used on input line 19.
 (pdftex.def)             Requested size: 101.62874pt x 101.62874pt.
- [1
 
-{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images/kec.png>]) (acknowledgement.tex) [1
 
-] (abstract.tex) [2
+[1
+
+{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images/kec.png>]) (acknowledgement.tex)
+
+[1
+
+] (abstract.tex)
+
+[2
 
 ] (main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [2
+
+
+[2
 
 ] (main.lof
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 4.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 4.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 4.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 4.
- (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+ (C:\Users\User\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -310,25 +317,43 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [3
+
+
+[3
 
 ] (main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [4
 
-] (abbreviation.tex) [5
+
+[4
+
+] (abbreviation.tex)
+
+[5
 
 ]
 Chapter 1.
-(chapters/ch1introduction.tex [1
+(chapters/ch1introduction.tex
 
-]) [2] [3]
+[1
+
+])
+
+[2]
+
+[3]
 Chapter 2.
-(chapters/ch2literature.tex) [4
+(chapters/ch2literature.tex)
 
-] [5] [6]
+[4
+
+]
+
+[5]
+
+[6]
 Chapter 3.
 (chapters/ch3relatedtheory.tex
 <images/raspimg.jpg, id=47, 897.3525pt x 644.4075pt>
@@ -336,42 +361,76 @@ File: images/raspimg.jpg Graphic file (type jpg)
 <use images/raspimg.jpg>
 Package pdftex.def Info: images/raspimg.jpg  used on input line 5.
 (pdftex.def)             Requested size: 226.48395pt x 162.6354pt.
- [7
 
-] [8 <./images/raspimg.jpg>]) [9] [10]
+
+[7
+
+]
+
+[8 <./images/raspimg.jpg>])
+
+[9]
+
+[10]
 Chapter 4.
-(chapters/ch4feasability.tex [11
+(chapters/ch4feasability.tex
 
-]) [12]
+[11
+
+])
+
+[12]
 Chapter 5.
-(chapters/ch5methodology.tex [13
+(chapters/ch5methodology.tex
 
-] [14]) [15] [16]
+[13
+
+]
+
+[14])
+
+[15]
+
+[16]
 Chapter 6.
-(chapters/ch6result.tex) [17
+(chapters/ch6result.tex)
 
-] [18] (ganttchart.tex) [19
+[17
 
-] (references.tex [20
+]
 
-]) [21
+[18] (ganttchart.tex)
+
+[19
+
+] (references.tex
+
+[20
+
+])
+
+[21
 
 ] (main.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4152 strings out of 474479
- 72315 string characters out of 5744063
- 1935542 words of memory out of 5000000
- 26340 multiletter control sequences out of 15000+600000
- 578979 words of font info for 70 fonts, out of 8000000 for 9000
+ 4145 strings out of 469941
+ 69829 string characters out of 5479500
+ 560756 words of memory out of 5000000
+ 30854 multiletter control sequences out of 15000+600000
+ 647735 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,8n,93p,995b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (28 pages, 185080 bytes).
+ 73i,8n,77p,958b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (28 pages, 185094 bytes).
 PDF statistics:
  111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
