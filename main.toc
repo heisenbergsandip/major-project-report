@@ -7,6 +7,7 @@
 \contentsline {section}{\numberline {1.1}Background Theory}{1}{}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{2}{}%
 \contentsline {chapter}{\numberline {2}Literature Review}{3}{}%
+<<<<<<< HEAD
 \contentsline {chapter}{\numberline {3}Related Theory}{5}{}%
 \contentsline {section}{\numberline {3.1}Hardware}{5}{}%
 \contentsline {subsection}{\numberline {3.1.1}FLYSKY Receiver}{5}{}%
@@ -26,8 +27,29 @@
 \contentsline {section}{\numberline {5.1}System Block Diagram}{12}{}%
 \contentsline {section}{\numberline {5.2}Algorithm}{13}{}%
 \contentsline {section}{\numberline {5.3}Flow Chart}{14}{}%
+=======
+\contentsline {chapter}{\numberline {3}Related Theory}{6}{}%
+\contentsline {section}{\numberline {3.1}Hardware}{6}{}%
+\contentsline {section}{\numberline {3.2}Software Overview}{7}{}%
+\contentsline {subsection}{\numberline {3.2.1}ESRGAN for Image Super-Resolution}{7}{}%
+\contentsline {subsection}{\numberline {3.2.2}Comparison of Super-Resolution Models}{8}{}%
+\contentsline {subsection}{\numberline {3.2.3}Land Use Classification}{8}{}%
+\contentsline {subsection}{\numberline {3.2.4}Software}{9}{}%
+\contentsline {subsection}{\numberline {3.2.5}Dataset}{9}{}%
+\contentsline {chapter}{\numberline {4}Feasibility Study}{11}{}%
+\contentsline {section}{\numberline {4.1}Technical Feasibility}{11}{}%
+\contentsline {subsection}{\numberline {4.1.1}Hardware Availability and Requirements}{11}{}%
+\contentsline {subsection}{\numberline {4.1.2}Software Tools and Implementation}{11}{}%
+\contentsline {subsection}{\numberline {4.1.3}UAV Design and Development Tools}{11}{}%
+\contentsline {subsection}{\numberline {4.1.4}Time Feasibility}{11}{}%
+\contentsline {section}{\numberline {4.2}Economic Feasibility}{12}{}%
+\contentsline {chapter}{\numberline {5}Methodology}{13}{}%
+\contentsline {section}{\numberline {5.1}System Block Diagram}{13}{}%
+\contentsline {section}{\numberline {5.2}Flow Chart}{14}{}%
+>>>>>>> 666af0dd46298b68c78b079ad779993a40c13d11
 \contentsline {chapter}{\numberline {6}Result And Analysis}{16}{}%
 \contentsline {section}{\numberline {6.1}Expected Output}{16}{}%
 \contentsline {chapter}{Gantt Chart}{18}{}%
 \contentsline {chapter}{Cost Estimation}{19}{}%
+\contentsline {chapter}{References}{21}{}%
 \contentsfinish 
