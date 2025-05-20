@@ -1,0 +1,73 @@
+% Defining the document class for a standalone table
+\documentclass{article}
+
+% Including necessary packages for table formatting
+\usepackage{booktabs} % For professional table formatting
+\usepackage{array} % For enhanced table control
+\usepackage{siunitx} % For proper number formatting
+\usepackage{geometry} % To adjust page margins
+\geometry{a4paper, margin=1in}
+
+% Starting the document
+\begin{document}
+
+% Table 1: Electronics & Core Components
+\section*{Electronics \& Core Components}
+\begin{table}[h]
+\centering
+\caption{Electronics and Core Components for Fixed-Wing UAV}
+\begin{tabular}{l c S[table-format=5.0]}
+\toprule
+\textbf{Item} & \textbf{Quantity} & \textbf{Cost (NRs)} \\
+\midrule
+FLYSKY Receiver & 1 & 8000 \\
+30A ESC Skywalker & 1 & 2000 \\
+Flight Stabilizer (NXE4 EVO) & 1 & 4500 \\
+1000KV Brushless Motor & 1 & 800 \\
+MG996 Metal Gear Servo & 4 & 3040 \\
+2200mAh 3S LiPo Battery & 1 & 3150 \\
+Buck Module Voltage Regulator & 1 & 550 \\
+Raspberry Pi with USB Camera and HDMI Cable & 1 & {TBD} \\
+Raspberry Pi USB Camera and HDMI Cable & 1 & {TBD} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Table 2: Frame & Construction Materials
+\section*{Frame \& Construction Materials}
+\begin{table}[h]
+\centering
+\caption{Frame and Construction Materials for Fixed-Wing UAV}
+\begin{tabular}{l c S[table-format=5.0]}
+\toprule
+\textbf{Item} & \textbf{Quantity} & \textbf{Cost (NRs)} \\
+\midrule
+Depron Sheet & 4 & 10000 \\
+Aluminum Motor Mount (L-shape) & 1 & 150 \\
+Push Rod (1m) & 2 & 400 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Table 3: Miscellaneous Accessories
+\section*{Miscellaneous Accessories}
+\begin{table}[h]
+\centering
+\caption{Miscellaneous Accessories for Fixed-Wing UAV}
+\begin{tabular}{l c S[table-format=3.0]}
+\toprule
+\textbf{Item} & \textbf{Quantity} & \textbf{Cost (NRs)} \\
+\midrule
+Hot Glue Gun Stick & 10 & 200 \\
+Duct/Binding Tape & 3 rolls & 300 \\
+XT60 Connector Pair & 2 & 500 \\
+3-Pin Orange Connector Pair & 4 & 60 \\
+Servo Wire Cable (5m) & 1 & 75 \\
+Propeller (7x5 inch) & 4 & 300 \\
+Bullet Propeller Holder Adapter & 1 & 170 \\
+Jumper Wire (MM, MF, FF, each 5) & 15 & 30 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}

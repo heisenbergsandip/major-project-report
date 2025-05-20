@@ -21,5 +21,5 @@
 \contentsline {chapter}{\numberline {6}Result And Analysis}{16}{}%
 \contentsline {section}{\numberline {6.1}Expected Output}{16}{}%
 \contentsline {chapter}{Gantt Chart}{18}{}%
-\contentsline {chapter}{References}{19}{}%
+\contentsline {chapter}{Cost Estimation}{19}{}%
 \contentsfinish 
