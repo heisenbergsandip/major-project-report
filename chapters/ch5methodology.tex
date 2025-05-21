@@ -73,5 +73,40 @@ The system consists of a fixed-wing UAV platform equipped with essential compone
 The ground transmitter sends flight control commands to the UAV receiver. The Raspberry Pi processes input from the onboard camera and stores captured images.
 
 These images are then passed to the image upscaling module using deep learning methods, enhancing the resolution and clarity. The upscaled images are further processed through a classification model to identify land use categories.
-
 Finally, the results from the classification are analyzed for insights, contributing to high-resolution land use mapping from UAV-acquired data.
+
+\section{Flowchart}
+\begin{center}
+\begin{tikzpicture}[node distance=1.8cm, every node/.style={font=\small}] % increased node distance
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3.5cm, minimum height=1cm, text centered, draw=black, fill=white]
+\tikzstyle{process} = [rectangle, minimum width=5.5cm, minimum height=1cm, text centered, draw=black, fill=white]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+
+\node (tx) [startstop] {Ground Transmitter Sends Control Signals};
+\node (rx) [process, below of=tx] {UAV Receiver Controls UAV Flight};
+\node (cam) [process, below of=rx] {UAV Captures Raw Images};
+\node (ret) [process, below of=cam, yshift=-0cm] {Images Retrieved Post-Flight};
+\node (upscale) [process, below of=ret, yshift=-0.6cm, text width=7cm] {
+Image Upscaling Using Deep Learning:\\
+• 4× Scaling\\
+• RRDB Blocks, Perceptual Loss\\
+• Texture Enhancement
+};
+\node (classify) [process, below of=upscale, yshift=-0.9cm, text width=7cm] {
+Land Use Classification:\\
+• CNN / SVM / RF Model\\
+• Kathmandu Dataset (OSM / NLC)
+};
+\node (result) [startstop, below of=classify,yshift=-0.2cm] {Result Analysis and Interpretation};
+
+% Arrows
+\draw [arrow] (tx) -- (rx);
+\draw [arrow] (rx) -- (cam);
+\draw [arrow] (cam) -- (ret);
+\draw [arrow] (ret) -- (upscale);
+\draw [arrow] (upscale) -- (classify);
+\draw [arrow] (classify) -- (result);
+
+\end{tikzpicture}
+\end{center}
