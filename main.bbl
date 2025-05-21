@@ -1,0 +1,120 @@
+\begin{thebibliography}{10}
+
+\bibitem{aabid2022reviews}
+A.~Aabid et~al.
+\newblock Reviews on design and development of unmanned aerial vehicle (drone)
+  for different applications.
+\newblock {\em Journal of Mechanical Engineering Research and Developments},
+  2022.
+
+\bibitem{rotary}
+A.~Aabid et~al.
+\newblock Section on rotary vs. fixed-wing performance and limitations in uav
+  design and field deployment.
+\newblock {\em Journal of Mechanical Engineering Research and Developments},
+  2022.
+
+\bibitem{baballe2022review}
+M.~A. Baballe et~al.
+\newblock A review of unmanned aerial vehicle (uav): Its impact and challenges.
+\newblock {\em CAENS Conference Proceedings}, 2022.
+
+\bibitem{bhuju2019cnn}
+S.~K. Bhuju, P.~K. Jha, and P.~K. Bhattarai.
+\newblock Land cover classification from fused dsm and uav images using
+  convolutional neural networks.
+\newblock {\em Remote Sens.}, 11(12):1461, 2019.
+\newblock [Online]. Available: \url{https://www.mdpi.com/2072-4292/11/12/1461}.
+
+\bibitem{bui2022combination}
+Q.~Bui, V.~Hoang, T.~Tran, and L.~T. Phuong.
+\newblock Combination of uav images and dsm for land cover classification using
+  convolutional neural network.
+\newblock {\em VNU Journal of Science: Earth and Environmental Sciences},
+  38(1):1--10, March 2022.
+
+\bibitem{dong2016srcnn}
+C.~Dong, C.~C. Loy, K.~He, and X.~Tang.
+\newblock Image super-resolution using deep convolutional networks.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 38(2):295--307,
+  February 2016.
+\newblock [Online]. Available:
+  \url{https://ieeexplore.ieee.org/document/7130009}.
+
+\bibitem{frtc2023nlcms}
+{Forest Research and Training Centre (FRTC)} and {ICIMOD}.
+\newblock Nepal national land cover monitoring system (nlcms), 2023.
+\newblock [Online]. Available:
+  \url{https://rds.icimod.org/Home/DataDetail?metadataId=1972729}.
+
+\bibitem{gdal2023}
+{GDAL}.
+\newblock Geospatial data abstraction library, 2023.
+\newblock [Online]. Available: \url{https://gdal.org/}.
+
+\bibitem{icimod2011landuse}
+{ICIMOD}.
+\newblock Landuse dataset of kathmandu metropolitan city, 2011.
+\newblock [Online]. Available:
+  \url{https://rds.icimod.org/Home/DataDetail?metadataId=8624}.
+
+\bibitem{lim2017edsr}
+B.~Lim, S.~Son, H.~Kim, S.~Nah, and K.~M. Lee.
+\newblock Enhanced deep residual networks for single image super-resolution.
+\newblock In {\em Proc. IEEE Conf. Comput. Vis. Pattern Recognit. Workshops},
+  pages 136--144, 2017.
+\newblock [Online]. Available: \url{https://arxiv.org/abs/1707.02921}.
+
+\bibitem{naushad2021deep}
+R.~Naushad, T.~Kaur, and E.~Ghaderpour.
+\newblock Deep transfer learning for land use and land cover classification: A
+  comparative study.
+\newblock {\em arXiv preprint arXiv:2110.02580}, October 2021.
+
+\bibitem{opencv2023}
+{OpenCV}.
+\newblock Open source computer vision library, 2023.
+\newblock [Online]. Available: \url{https://opencv.org/}.
+
+\bibitem{osm2023kathmandu}
+{OpenStreetMap}.
+\newblock Land-use polygons for kathmandu, 2023.
+\newblock [Online]. Available:
+  \url{https://data.humdata.org/dataset/openstreetmap-kathmandu-landuse}.
+
+\bibitem{pytorch2023}
+{PyTorch}.
+\newblock An open source machine learning framework, 2023.
+\newblock [Online]. Available: \url{https://pytorch.org/}.
+
+\bibitem{scikit2023}
+{scikit-learn}.
+\newblock Machine learning in python, 2023.
+\newblock [Online]. Available: \url{https://scikit-learn.org/}.
+
+\bibitem{shakhatreh2019survey}
+H.~Shakhatreh et~al.
+\newblock Unmanned aerial vehicles (uavs): A survey on civil applications and
+  key research challenges.
+\newblock {\em IEEE Access}, 7:48572--48634, 2019.
+
+\bibitem{tensorflow2023}
+{TensorFlow}.
+\newblock An end-to-end open source machine learning platform, 2023.
+\newblock [Online]. Available: \url{https://www.tensorflow.org/}.
+
+\bibitem{tuna2018single}
+C.~Tuna, G.~Unal, and E.~Sertel.
+\newblock Single-frame super resolution of remote-sensing images by
+  convolutional neural networks.
+\newblock {\em International Journal of Remote Sensing}, 39(8):2463--2479,
+  April 2018.
+
+\bibitem{wang2018esrgan}
+X.~Wang, K.~Yu, S.~Wu, J.~Gu, Y.~Liu, C.~Dong, Y.~Qiao, and C.~C. Loy.
+\newblock Esrgan: Enhanced super-resolution generative adversarial networks.
+\newblock In {\em Proc. Eur. Conf. Comput. Vis. (ECCV) Workshops}, pages
+  63--79, 2018.
+\newblock [Online]. Available: \url{https://arxiv.org/abs/1809.00219}.
+
+\end{thebibliography}

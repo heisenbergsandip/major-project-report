@@ -20,6 +20,7 @@
 \usepackage{acronym}
 \usepackage{graphicx}
 \graphicspath{ {./images/} }
+\usepackage{hyperref}
 
 % Line spacing
 \usepackage{setspace}
@@ -101,6 +102,8 @@
 \bfseries\Huge\centering\ #1
 \par\nobreak\vspace{16 pt}}}
 \makeatother
+%\renewcommand{\refname}{References} % For article class
+\renewcommand{\bibname}{References} % For report/book class
 
 \title{Major}
 \author{Sandip Adhikari}
@@ -178,9 +181,9 @@
 \label{cost estimation}
 \input{cost estimation}
 
-\chapter*{References}
+%\chapter*{References}
 \addcontentsline{toc}{chapter}{References}
-\label{references}
-\input{references}
+\bibliographystyle{plain} % or another style like ieee, unsrt, etc.
+\bibliography{references} % references.bib (no .bib extension)
 
 \end{document}
