@@ -1,4 +1,77 @@
 \section{System Block Diagram}
-\lipsum[4-8]
-\section{Flow Chart}
-\lipsum[4-8]
+
+\tikzset{
+    block/.style = {
+        rectangle, 
+        rounded corners, 
+        minimum width=3cm, 
+        minimum height=1cm, 
+        align=center, 
+        draw=black, 
+        fill=white
+    },
+    subblock/.style = {
+        rectangle, 
+        minimum width=1.5cm, 
+        minimum height=0.7cm, 
+        align=center, 
+        draw=black, 
+        fill=gray!20
+    },
+    arrow/.style = {
+        thick, 
+        -{Stealth[scale=1.2]}
+    }
+}
+
+\begin{tikzpicture}[node distance=1.2cm]
+
+% UAV System
+\node[block, minimum width=7cm, minimum height=3cm] (uav) {UAV};
+    \node[subblock] (pi) at ([xshift=0cm, yshift=0cm]uav.north west) {RPi};
+    \node[subblock] (camera) at ([xshift=0cm, yshift=0cm]uav.south west) {Camera};
+    \node[subblock] (receiver) at ([xshift=0cm, yshift=-1.5cm]uav.north east) {Receiver\\Control};
+
+% Ground System (to the left/west of UAV)
+\node[block, right=4cm of uav] (ground) {Ground\\Transmitter};
+
+% Image Upscaling just below Camera
+\node[block, below=2cm of uav] (upscale) {Image Upscaling\\(Deep Learning)};
+
+% Land Use Classification below Image Upscaling
+\node[block, below=of upscale] (classify) {Land Use\\Classification};
+\node[block, below=of classify] (analysis) {Result\\Analysis};
+
+% Data Flow
+\begin{scope}[arrow]
+    \draw (ground.west) -- (receiver.east); % straight line
+    \draw (uav.south) -- node[right, xshift=0.2cm] {Raw\\Images} (upscale.north);
+    \draw (upscale) -- (classify);
+    \draw (classify) -- (analysis);
+\end{scope}
+
+% Legend
+
+\node[align=center] at ($(analysis.south) + (0,-1)$) 
+    {\footnotesize \textbf{Figure~\thefigure: System Block Diagram of UAV System}};
+
+\end{tikzpicture}
+ 
+\subsection{System Description}
+
+The system consists of a fixed-wing UAV platform equipped with essential components for flight and data collection. The UAV includes:
+
+\begin{itemize}
+    \item \textbf{ESC (Electronic Speed Controller):} Regulates the speed of the motor driving the propeller.
+    \item \textbf{Propeller:} Provides thrust for UAV flight.
+    \item \textbf{4 Servos:} Control the movement of aerodynamic surfaces like ailerons, elevator, and rudder for flight maneuverability.
+    \item \textbf{Battery:} Powers the entire onboard system.
+    \item \textbf{UAV Receiver:} Receives control signals from the ground-based transmitter.
+    \item \textbf{Raspberry Pi + Camera Module:} Captures aerial images during flight.
+\end{itemize}
+
+The ground transmitter sends flight control commands to the UAV receiver. The Raspberry Pi processes input from the onboard camera and stores captured images.
+
+These images are then passed to the image upscaling module using deep learning methods, enhancing the resolution and clarity. The upscaled images are further processed through a classification model to identify land use categories.
+
+Finally, the results from the classification are analyzed for insights, contributing to high-resolution land use mapping from UAV-acquired data.
