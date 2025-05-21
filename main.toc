@@ -34,9 +34,8 @@
 \contentsline {chapter}{\numberline {5}Methodology}{13}{}%
 \contentsline {section}{\numberline {5.1}System Block Diagram}{13}{}%
 \contentsline {subsection}{\numberline {5.1.1}System Description}{13}{}%
-\contentsline {chapter}{\numberline {6}Result And Analysis}{15}{}%
-\contentsline {section}{\numberline {6.1}Expected Output}{15}{}%
-\contentsline {chapter}{Gantt Chart}{17}{}%
-\contentsline {chapter}{Cost Estimation}{18}{}%
-\contentsline {chapter}{References}{20}{}%
+\contentsline {chapter}{\numberline {6}Expected Output}{15}{}%
+\contentsline {chapter}{Gantt Chart}{16}{}%
+\contentsline {chapter}{Cost Estimation}{17}{}%
+\contentsline {chapter}{References}{19}{}%
 \contentsfinish 
