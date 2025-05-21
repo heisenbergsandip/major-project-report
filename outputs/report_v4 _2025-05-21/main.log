@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.18)  21 MAY 2025 16:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.18)  21 MAY 2025 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -975,19 +975,19 @@ zed for in-sights, con-tribut-ing to high-resolution
 Chapter 6.
 (chapters/ch6result.tex) [15
 
-] [16] (ganttchart.tex
+] (ganttchart.tex
 File: images/kec.png Graphic file (type png)
 <use images/kec.png>
 Package pdftex.def Info: images/kec.png  used on input line 3.
 (pdftex.def)             Requested size: 101.62874pt x 101.62874pt.
-) [17
+) [16
 
 ] (cost estimation.tex
-[18
+[17
 
-]) [19] (references.tex [20
+]) [18] (references.tex [19
 
-]) [21
+]) [20
 
 ] (main.aux)
  ***********
@@ -1008,10 +1008,10 @@ Here is how much of TeX's memory you used:
 <C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 
 Output written on "C:\Users\ASUS\OneDrive\Desktop\Major Project Proposal-Report
- for Institute of Engineering (IOE) (2)\outputs\report_v3 _2025-05-21\main.pdf"
- (29 pages, 460005 bytes).
+ for Institute of Engineering (IOE) (2)\outputs\report_v4 _2025-05-21\main.pdf"
+ (28 pages, 457799 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
+ 118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
