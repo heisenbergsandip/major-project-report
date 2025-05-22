@@ -1,8 +1,7 @@
-\contentsline {chapter}{Acknowledgement}{i}{chapter*.1}%
-\contentsline {chapter}{Abstract}{ii}{chapter*.2}%
-\contentsline {chapter}{List of Figures}{iv}{chapter*.4}%
-\contentsline {chapter}{List of Tables}{v}{chapter*.5}%
-\contentsline {chapter}{List of Abbreviation}{vi}{chapter*.6}%
+\contentsline {chapter}{Acknowledgement}{i}{chapter*.2}%
+\contentsline {chapter}{List of Figures}{iii}{chapter*.4}%
+\contentsline {chapter}{List of Tables}{iv}{chapter*.5}%
+\contentsline {chapter}{List of Abbreviation}{v}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background Theory}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
@@ -16,7 +15,7 @@
 \contentsline {subsection}{\numberline {3.1.4}1000KV Brushless Motor}{6}{subsection.3.1.4}%
 \contentsline {subsection}{\numberline {3.1.5}MG996 Metal Gear Servo}{6}{subsection.3.1.5}%
 \contentsline {subsection}{\numberline {3.1.6}2200mAh 3S LiPo Battery}{7}{subsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.1.7}Buck Module Voltage Regulator}{8}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.7}Buck Module Voltage Regulator}{7}{subsection.3.1.7}%
 \contentsline {subsection}{\numberline {3.1.8}Raspberry Pi 4 Model B}{8}{subsection.3.1.8}%
 \contentsline {section}{\numberline {3.2}Software Overview}{9}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}ESRGAN for Image Super-Resolution}{9}{subsection.3.2.1}%
@@ -36,7 +35,7 @@
 \contentsline {subsection}{\numberline {5.1.1}System Description}{14}{subsection.5.1.1}%
 \contentsline {section}{\numberline {5.2}Flowchart}{15}{section.5.2}%
 \contentsline {chapter}{\numberline {6}Expected Output}{16}{chapter.6}%
-\contentsline {chapter}{Gantt Chart}{17}{chapter*.7}%
-\contentsline {chapter}{Cost Estimation}{18}{chapter*.8}%
-\contentsline {chapter}{References}{19}{table.6.4}%
+\contentsline {chapter}{Gantt Chart}{17}{chapter*.17}%
+\contentsline {chapter}{Cost Estimation}{18}{chapter*.19}%
+\contentsline {chapter}{References}{19}{table.caption.23}%
 \contentsfinish 

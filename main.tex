@@ -22,7 +22,13 @@
 \graphicspath{ {./images/} }
 \usepackage{hyperref}
 \usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+%\usepackage{fontspec}
+ 
 
+\usepackage[labelfont=bf, font=bf, justification=centering, font=small]{caption}
+\captionsetup[figure]{labelfont=bf, font=bf, justification=centering, font=small, labelsep=period}
+\captionsetup[table]{labelfont=bf, font=bf, justification=centering, font=small, labelsep=period, position=above}
   
 % Line spacing
 \usepackage{setspace}
@@ -123,10 +129,10 @@
 \label{acknowledgement}
 \input{acknowledgement}
 
-\chapter*{Abstract}
-\addcontentsline{toc}{chapter}{Abstract}
-\label{abstract}
-\input{abstract}
+%\chapter*{Abstract}
+%\addcontentsline{toc}{chapter}{Abstract}
+%\label{abstract}
+%\input{abstract}
 
 \tableofcontents
 \thispagestyle{empty}
