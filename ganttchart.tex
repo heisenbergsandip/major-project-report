@@ -1,4 +1,47 @@
-\begin{figure}[ht]
-    \centering
-    \includegraphics[scale=0.45]{images/kec.png}
-\end{figure}
+\begin{center}
+\resizebox{\textwidth}{!}{
+\begin{ganttchart}[
+    hgrid,
+    vgrid,
+    time slot format=isodate-yearmonth,
+    time slot unit=month,
+    x unit= 1.6cm,
+    y unit chart =1.6cm,
+    y unit title=1cm,
+    title height=1,
+    bar height=0.6,
+    bar/.append style={fill=blue!50},
+    group right shift=0,
+    group top shift=0.4,
+    group height=.3,
+    bar label font=\normalsize,
+    bar label node/.append style={align=left, text width=4cm},
+    group label node/.append style={align=left, text width=4cm}
+]{2025-05}{2026-02}
+  \gantttitlecalendar{year, month=shortname} \\
+
+  % Row 1: Project Design and Investigation (May to June)
+  \ganttbar[bar/.append style={fill=blue!50}]{Project Design and Investigation}{2025-05}{2025-06} \\
+
+  % Row 2: Research and Components (Mid June to Mid August)
+  \ganttbar[bar/.append style={fill=red!50}]{Research and Components}{2025-06-15}{2025-08-15} \\
+
+  % Row 3: Designing (Mid June to September end)
+  \ganttbar[bar/.append style={fill=green!50}]{Designing}{2025-06-15}{2025-09} \\
+
+  % Row 4: Coding and Simulation (June start to December end)
+  \ganttbar[bar/.append style={fill=orange!70}]{Coding and Simulation}{2025-06}{2025-12} \\
+
+  % Row 5: Hardware Parts Assembly (August end to November end)
+  \ganttbar[bar/.append style={fill=purple!50}]{Hardware Parts Assembly}{2025-08-25}{2025-11} \\
+
+  % Row 6: UAV Testing and Data Acquisition (October end to December end)
+  \ganttbar[bar/.append style={fill=cyan!50}]{UAV Testing and Data Acquisition}{2025-10-25}{2025-12} \\
+
+  % Row 7: Model Testing and Prediction (December start to February mid)
+  \ganttbar[bar/.append style={fill=magenta!60}]{Model Testing and Prediction}{2025-12}{2026-02-15}
+
+\end{ganttchart}
+}
+\end{center}
+

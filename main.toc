@@ -36,6 +36,6 @@
 \contentsline {section}{\numberline {5.2}Flowchart}{15}{section.5.2}%
 \contentsline {chapter}{\numberline {6}Expected Output}{16}{chapter.6}%
 \contentsline {chapter}{Gantt Chart}{17}{chapter*.17}%
-\contentsline {chapter}{Cost Estimation}{18}{chapter*.19}%
-\contentsline {chapter}{References}{19}{table.caption.23}%
+\contentsline {chapter}{Cost Estimation}{18}{chapter*.18}%
+\contentsline {chapter}{References}{19}{table.caption.22}%
 \contentsfinish 
