@@ -45,18 +45,21 @@ C.~Dong, C.~C. Loy, K.~He, and X.~Tang.
 {Forest Research and Training Centre (FRTC)} and {ICIMOD}.
 \newblock Nepal national land cover monitoring system (nlcms), 2023.
 \newblock [Online]. Available:
-  \url{https://rds.icimod.org/Home/DataDetail?metadataId=1972729}.
+  \url{https://rds.icimod.org/Home/DataDetail?metadataId=1972729} [Accessed:
+  May 19, 2025].
 
 \bibitem{gdal2023}
 {GDAL}.
 \newblock Geospatial data abstraction library, 2023.
-\newblock [Online]. Available: \url{https://gdal.org/}.
+\newblock [Online]. Available: \url{https://gdal.org/} [Accessed: May 19,
+  2025].
 
 \bibitem{icimod2011landuse}
 {ICIMOD}.
 \newblock Landuse dataset of kathmandu metropolitan city, 2011.
 \newblock [Online]. Available:
-  \url{https://rds.icimod.org/Home/DataDetail?metadataId=8624}.
+  \url{https://rds.icimod.org/Home/DataDetail?metadataId=8624} [Accessed: May
+  19, 2025].
 
 \bibitem{lim2017edsr}
 B.~Lim, S.~Son, H.~Kim, S.~Nah, and K.~M. Lee.
@@ -74,23 +77,27 @@ R.~Naushad, T.~Kaur, and E.~Ghaderpour.
 \bibitem{opencv2023}
 {OpenCV}.
 \newblock Open source computer vision library, 2023.
-\newblock [Online]. Available: \url{https://opencv.org/}.
+\newblock [Online]. Available: \url{https://opencv.org/} [Accessed: May 18,
+  2025].
 
 \bibitem{osm2023kathmandu}
 {OpenStreetMap}.
 \newblock Land-use polygons for kathmandu, 2023.
 \newblock [Online]. Available:
-  \url{https://data.humdata.org/dataset/openstreetmap-kathmandu-landuse}.
+  \url{https://data.humdata.org/dataset/openstreetmap-kathmandu-landuse}
+  [Accessed: May 19, 2025].
 
 \bibitem{pytorch2023}
 {PyTorch}.
 \newblock An open source machine learning framework, 2023.
-\newblock [Online]. Available: \url{https://pytorch.org/}.
+\newblock [Online]. Available: \url{https://pytorch.org/} [Accessed: May 17,
+  2025].
 
 \bibitem{scikit2023}
 {scikit-learn}.
 \newblock Machine learning in python, 2023.
-\newblock [Online]. Available: \url{https://scikit-learn.org/}.
+\newblock [Online]. Available: \url{https://scikit-learn.org/} [Accessed: May
+  17, 2025].
 
 \bibitem{shakhatreh2019survey}
 H.~Shakhatreh et~al.
@@ -101,7 +108,8 @@ H.~Shakhatreh et~al.
 \bibitem{tensorflow2023}
 {TensorFlow}.
 \newblock An end-to-end open source machine learning platform, 2023.
-\newblock [Online]. Available: \url{https://www.tensorflow.org/}.
+\newblock [Online]. Available: \url{https://www.tensorflow.org/} [Accessed: May
+  17, 2025].
 
 \bibitem{tuna2018single}
 C.~Tuna, G.~Unal, and E.~Sertel.
