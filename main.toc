@@ -1,14 +1,14 @@
 \contentsline {chapter}{Acknowledgement}{i}{chapter*.2}%
-\contentsline {chapter}{List of Figures}{iii}{chapter*.4}%
-\contentsline {chapter}{List of Tables}{iv}{chapter*.5}%
-\contentsline {chapter}{List of Abbreviation}{v}{chapter*.6}%
+\contentsline {chapter}{List of Figures}{iv}{chapter*.4}%
+\contentsline {chapter}{List of Tables}{v}{chapter*.5}%
+\contentsline {chapter}{List of Abbreviation}{vi}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Background Theory}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Objectives}{2}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Related Theory}{4}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Hardware}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Hardware Overview}{4}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}FLYSKY with Receiver}{4}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}30A ESC Skywalker}{5}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.1.3}Flight Stabilizer (NXE4 EVO)}{5}{subsection.3.1.3}%
@@ -17,25 +17,26 @@
 \contentsline {subsection}{\numberline {3.1.6}2200mAh 3S LiPo Battery}{7}{subsection.3.1.6}%
 \contentsline {subsection}{\numberline {3.1.7}Buck Module Voltage Regulator}{7}{subsection.3.1.7}%
 \contentsline {subsection}{\numberline {3.1.8}Raspberry Pi 4 Model B}{8}{subsection.3.1.8}%
-\contentsline {section}{\numberline {3.2}Software Overview}{9}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}ESRGAN for Image Super-Resolution}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Comparison of Super-Resolution Models}{9}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Land Use Classification}{10}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Software}{10}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Dataset}{11}{subsection.3.2.5}%
-\contentsline {chapter}{\numberline {4}Feasibility Study}{12}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Technical Feasibility}{12}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Hardware Availability and Requirements}{12}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Software Tools and Implementation}{12}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}UAV Design and Development Tools}{12}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Time Feasibility}{12}{subsection.4.1.4}%
-\contentsline {section}{\numberline {4.2}Economic Feasibility}{13}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Methodology}{14}{chapter.5}%
-\contentsline {section}{\numberline {5.1}System Block Diagram}{14}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}System Description}{14}{subsection.5.1.1}%
-\contentsline {section}{\numberline {5.2}Flowchart}{15}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Expected Output}{16}{chapter.6}%
-\contentsline {chapter}{Gantt Chart}{17}{chapter*.17}%
-\contentsline {chapter}{Cost Estimation}{18}{chapter*.18}%
-\contentsline {chapter}{References}{19}{table.caption.22}%
+\contentsline {subsection}{\numberline {3.1.9}UAV Design Plan}{8}{subsection.3.1.9}%
+\contentsline {section}{\numberline {3.2}Software Overview}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}ESRGAN for Image Super-Resolution}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Comparison of Super-Resolution Models}{11}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Land Use Classification}{11}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Software}{12}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Dataset}{12}{subsection.3.2.5}%
+\contentsline {chapter}{\numberline {4}Feasibility Study}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Technical Feasibility}{14}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Hardware Availability and Requirements}{14}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Software Tools and Implementation}{14}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}UAV Design and Development Tools}{14}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Time Feasibility}{14}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Economic Feasibility}{15}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Methodology}{16}{chapter.5}%
+\contentsline {section}{\numberline {5.1}System Block Diagram}{16}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}System Description}{16}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Flowchart}{17}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Expected Output}{18}{chapter.6}%
+\contentsline {chapter}{Gantt Chart}{19}{chapter*.22}%
+\contentsline {chapter}{Cost Estimation}{20}{chapter*.23}%
+\contentsline {chapter}{References}{21}{table.caption.28}%
 \contentsfinish 

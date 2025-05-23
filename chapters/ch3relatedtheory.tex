@@ -1,4 +1,4 @@
-\section{Hardware}
+\section{Hardware Overview}
 \subsection{FLYSKY with Receiver}
 \begin{figure}[H]
 \centering
@@ -63,12 +63,100 @@ A buck module voltage regulator is a DC-DC converter that steps down higher inpu
 \end{figure}
 The Raspberry Pi is a credit card-sized single-board computer capable of running a full Linux OS and performing various computing tasks. When paired with a USB camera, it can capture images and video for applications like computer vision, surveillance, and robotics. The HDMI cable allows video output to a monitor or display, enabling real-time viewing or debugging. This setup is ideal for lightweight, portable embedded systems where processing power, camera input, and display output are all required.
 
+\subsection{UAV Design Plan}
+
+The UAV will be constructed using Depron sheets to ensure a lightweight structure with optimal aerodynamic efficiency. Below are the detailed specifications for the main wing, stabilizers, and performance characteristics of the updated 48-inch wingspan design.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{images/uav_design_img.png} % Replace with your actual image file
+    \caption{Updated UAV Design Using Depron Sheets}
+    \label{fig:uav_design}
+\end{figure}
+
+\subsubsection*{Main Wing Design Details}
+\begin{table}[H]
+  \centering
+  \begin{tabular}{|l|l|}
+  \hline
+  \textbf{Parameter} & \textbf{Specification} \\
+  \hline
+  Wingspan (A) & 48 inches \\
+  Fuselage Length (B) & 34.56 inches \\
+  Wing Area (D) & 419 square inches \\
+  Wingcord (C) & 8.73 inches \\
+  Wing Thickness (E) & 1.13 inches \\
+  Aileron Total Surface Area (F) & 46.1 square inches (Left + Right) \\
+  Aileron Dimensions & 13.4 inches × 1.72 inches \\
+  Prop to Main Wing Leading Edge Distance (G) & 7.2 inches \\
+  \hline
+  \end{tabular}
+  \caption{Main Wing Design Details}
+  \label{tab:main_wing}
+\end{table}
+%\vspace{0.5cm}
+
+\subsubsection*{Horizontal Stabilizer Design Details}
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Parameter} & \textbf{Specification} \\
+\hline
+Total Surface Area (H) & 104.8 square inches \\
+Elevator Surface Area (I) & 26.2 square inches \\
+Wing LE to Stabilizer LE (J) & 26.2 inches \\
+\hline
+\end{tabular}
+\caption{Horizontal Stabilizer Design Details}
+\label{tab:main_wing}
+\end{table}
+
+%\vspace{0.5cm}
+
+\subsubsection*{Vertical Stabilizer Design Details}
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Parameter} & \textbf{Specification} \\
+\hline
+Vertical Stabilizer Surface Area (K) & 41.9 square inches \\
+Rudder Surface Area (L) & 10.5 square inches \\
+\hline
+\end{tabular}
+\caption{Vertical Stabilizer Design Details}
+  \label{tab:main_wing}
+\end{table}
+
+%\vspace{0.5cm}
+
+\subsubsection*{Performance Design Specifications}
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Parameter} & \textbf{Specification} \\
+\hline
+Recommended Maximum AUW & 31.1 ounces \\
+\textbf{Actual Estimated AUW} & \textbf{30.43 ounces} \\
+Power Output at AUW & 194 watts \\
+Recommended Motor Kv & 1080 Kv \\
+Recommended LiPo Cell Count & 3S \\
+Maximum Wing Loading & 10.7 oz/ft\textsuperscript{2} \\
+Center of Gravity (M) & 1.92 inches to 2.62 inches \\
+\hline
+\end{tabular}
+\caption{Performance Design Specifications}
+  \label{tab:main_wing}
+\end{table}
+
 \section{Software Overview}
 
 \subsection{ESRGAN for Image Super-Resolution}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.85\linewidth]{images/esrganarchi.png}
+    \includegraphics[width=0.91\linewidth, height=0.13\textheight]{images/esrganarchi.jpg}
     \caption{ESRGAN Architecture with Residual-in-Residual Dense Blocks (RRDB)}
     \label{fig:esrgan}
 \end{figure}
