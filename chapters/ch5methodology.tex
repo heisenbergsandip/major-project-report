@@ -110,3 +110,37 @@ Land Use Classification:\\
 
 \end{tikzpicture}
 \end{center}
+
+\section{Evaluation Plan}
+
+The evaluation of the proposed UAV system will be carried out in three major phases, focusing on flight performance, data acquisition quality, and land use classification accuracy.
+
+\subsection{Flight Performance Evaluation}
+\begin{itemize}
+    \item \textbf{Stability and Control:} The UAV's ability to respond to transmitter inputs will be tested under varying weather conditions. Metrics include roll, pitch, yaw response times, and return-to-home accuracy.
+    \item \textbf{Endurance Testing:} Flight duration will be measured using a fully charged battery under standard payload conditions.
+    \item \textbf{Component Reliability:} Each hardware component (ESC, servos, receiver, etc.) will be assessed for thermal stability and consistency across multiple flights.
+\end{itemize}
+
+\subsection{Image Data Quality Evaluation}
+\begin{itemize}
+    \item \textbf{Resolution Improvement:} The effectiveness of the deep learning-based upscaling model will be evaluated using PSNR (Peak Signal-to-Noise Ratio) and SSIM (Structural Similarity Index).
+    \item \textbf{Dataset Diversity:} Images will be captured across diverse terrains (urban, agricultural, forested) to test generalizability.
+    \item \textbf{Lighting and Clarity:} Assessment under different lighting conditions (morning, afternoon, dusk) to ensure usable imagery.
+\end{itemize}
+
+\subsection{Land Use Classification Evaluation}
+\begin{itemize}
+    \item \textbf{Accuracy Metrics:} Models (CNN, SVM, RF) will be evaluated using precision, recall, F1-score, and overall accuracy.
+    \item \textbf{Confusion Matrix Analysis:} To identify class-wise performance and misclassifications.
+    \item \textbf{Comparative Benchmarking:} Results will be compared against existing annotated datasets such as OpenStreetMap (OSM) and National Land Cover (NLC).
+\end{itemize}
+
+\subsection{System Integration Evaluation}
+\begin{itemize}
+    \item \textbf{End-to-End Pipeline Test:} A complete workflow test—from flight to image capture, upscaling, classification, and result analysis—will be conducted to validate system synchronization.
+    \item \textbf{Latency Measurement:} Time taken from data acquisition to final analysis output will be recorded and optimized.
+\end{itemize}
+
+The outcomes from these evaluations will guide further optimization in both hardware setup and software processing pipelines, ensuring a robust and scalable UAV-based land mapping system.
+
