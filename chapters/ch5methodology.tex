@@ -65,7 +65,6 @@ The system consists of a fixed-wing UAV platform equipped with essential compone
     \item \textbf{ESC (Electronic Speed Controller):} Regulates the speed of the motor driving the propeller.
     \item \textbf{Propeller:} Provides thrust for UAV flight.
     \item \textbf{4 Servos:} Control the movement of aerodynamic surfaces like ailerons, elevator, and rudder for flight maneuverability.
-    \item \textbf{Battery:} Powers the entire onboard system.
     \item \textbf{UAV Receiver:} Receives control signals from the ground-based transmitter.
     \item \textbf{Raspberry Pi + Camera Module:} Captures aerial images during flight.
 \end{itemize}
@@ -76,7 +75,8 @@ These images are then passed to the image upscaling module using deep learning m
 Finally, the results from the classification are analyzed for insights, contributing to high-resolution land use mapping from UAV-acquired data.
 
 \section{Flowchart}
-\begin{center}
+\begin{figure}[H]
+\centering
 \begin{tikzpicture}[node distance=1.8cm, every node/.style={font=\small}] % increased node distance
 
 \tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3.5cm, minimum height=1cm, text centered, draw=black, fill=white]
@@ -109,7 +109,9 @@ Land Use Classification:\\
 \draw [arrow] (classify) -- (result);
 
 \end{tikzpicture}
-\end{center}
+\caption{Flowchart of the UAV-based Land Use Mapping Methodology}
+\label{fig:flowchart}
+\end{figure}
 
 \section{Evaluation Plan}
 

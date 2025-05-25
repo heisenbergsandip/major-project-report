@@ -43,7 +43,7 @@
 \contentsline {subsection}{\numberline {5.3.3}Land Use Classification Evaluation}{19}{subsection.5.3.3}%
 \contentsline {subsection}{\numberline {5.3.4}System Integration Evaluation}{20}{subsection.5.3.4}%
 \contentsline {chapter}{\numberline {6}Expected Output}{21}{chapter.6}%
-\contentsline {chapter}{Gantt Chart}{22}{chapter*.22}%
-\contentsline {chapter}{Cost Estimation}{23}{chapter*.23}%
-\contentsline {chapter}{References}{24}{table.caption.28}%
+\contentsline {chapter}{Gantt Chart}{22}{chapter*.23}%
+\contentsline {chapter}{Cost Estimation}{23}{chapter*.24}%
+\contentsline {chapter}{References}{24}{table.caption.29}%
 \contentsfinish 
